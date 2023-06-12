@@ -4,6 +4,7 @@ Bu ders kapsamında aşağıdaki aktiviteler gerçekleştirilmiştir.
 
 1- Spark Uygulamaları
 2- Birliktelik Kuralı Çıkarma ve Bazı Parametreleri Anlama
+3- Final Projesi
 
 
 
@@ -17,3 +18,6 @@ https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 trip.csv;
 https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share
+
+lfw-funneled.tgz;
+https://www.kaggle.com/datasets/atulanandjha/lfwpeople
